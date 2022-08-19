@@ -46,7 +46,8 @@
                 app:neumorph_shadowColorDark="@color/dark_shadow"
                 app:neumorph_shadowColorLight="@color/light_shadow"
                 app:neumorph_shadowElevation="@dimen/_5sdp"
-                app:neumorph_shadowAppearance="@style/NeumorphismCard">
+
+                >
 
                 <LinearLayout
                     android:layout_width="match_parent"
